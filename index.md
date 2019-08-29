@@ -1,3 +1,9 @@
+# Madison's First CS193 Homework
+
+## Some of my favorite things about the class
+- helpful
+- really useful for incoming studentws
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](www.google.com) to maintain and preview the content for your website in Markdown files.
